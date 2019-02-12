@@ -1,0 +1,73 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "Sam",
+            "last_name": "Cronin",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "first_name": "Kelsey",
+            "last_name": "Conner",
+            "departmentId": 2,
+            "computerId": 4
+        },
+        {
+            "id": 3,
+            "first_name": "Connor",
+            "last_name": "Bailey",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 4,
+            "first_name": "Brian",
+            "last_name": "Neal",
+            "departmentId": 1,
+            "computerId": 3
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "dept_name": "sales"
+        },
+        {
+            "id": 2,
+            "dept_name": "marketing"
+        },
+        {
+            "id": 3,
+            "dept_name": "human resources"
+        },
+        {
+            "id": 4,
+            "dept_name": "research"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "make": "Apple",
+            "model": "Macbook Pro"
+        },
+        {
+            "id": 2,
+            "make": "Apple",
+            "model": "Macbook Air"
+        },
+        {
+            "id": 3,
+            "make": "Dell",
+            "model": "Inovate"
+        },
+        {
+            "id": 4,
+            "make": "Asus",
+            "model": "Gentry"
+        }
+    ]
+
+}
